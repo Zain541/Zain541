@@ -50,8 +50,8 @@ Feel free to explore my [Stack Overflow profile](https://stackoverflow.com/users
 Feel free to reach out to me for any web-related tasks:
 
 - 📧 Email: [zainfarooq541@gmail.com](mailto:zainfarooq541@gmail.com)
-- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/zain-farooq-b3a914147)
 - 🌐 Website: [codekinz.com](https://www.codekinz.com)
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/zain-farooq-b3a914147)
 - 🛠️ Upwork: [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?logo=upwork)](https://www.upwork.com/freelancers/zainfarooq6)
 
 Let's collaborate and build something amazing together!
