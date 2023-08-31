@@ -33,6 +33,17 @@ In my free time, I work on an open-source Laravel package called [Livewire Easy 
 
 Feel free to check out the repository [here](https://github.com/Zain541/livewire-easy-tags) to see the code and progress.
 
+## Stack Overflow Contributions
+
+I'm an active member of the coding community on Stack Overflow, where I've answered 194 questions and earned around 2.9K+ reputation points. My contributions have been recognized with:
+
+- 🥇 3 Gold Badges
+- 🥈 20 Silver Badges
+- 🥉 42 Bronze Badges
+
+Feel free to explore my [Stack Overflow profile](https://stackoverflow.com/users/5255147/zain-farooq) to see my answers and solutions.
+
+
 
 ## Contact
 
