@@ -27,6 +27,13 @@ I specialize in building a wide range of applications, including:
 
 I'm dedicated to crafting clean, readable, modular, and maintainable code. My goal is to create exceptional user experiences through well-refactored solutions.
 
+## Open-Source Contribution
+
+In my free time, I work on an open-source Laravel package called [Livewire Easy Tags](https://github.com/Zain541/livewire-easy-tags). It's a work-in-progress project that demonstrates my skills in Laravel development. The package aims to simplify tag input functionalities using Livewire in Laravel applications.
+
+Feel free to check out the repository [here](https://github.com/Zain541/livewire-easy-tags) to see the code and progress.
+
+
 ## Contact
 
 Feel free to reach out to me for any web-related tasks:
