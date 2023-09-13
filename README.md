@@ -6,7 +6,7 @@ I'm a professional full-stack developer with over 4 years of experience in web d
 
 - **Languages**: PHP, JavaScript
 - **Frameworks**: Laravel, Vue.js, Livewire, FilamentPHP
-- **Stack**: TALL Stack (Laravel, Livewire, Alpine.js, Filament PHP, Wire Elements Pro), Full Stack (Laravel, Vue.js, Tailwind)
+- **Stack**: TALL Stack (Laravel, Livewire, Alpine.js, Tailwind, Filament PHP, Wire Elements Pro), Full Stack (Laravel, Vue.js, Tailwind)
 - **Frontend**: HTML5, CSS3 (SCSS), CSS Grid, Flexbox
 - **Libraries**: JQuery, Chart.js, fullcalendar.js, Tagify, Select2, plyr.io
 - **Payment Methods**: Stripe, Paypal
