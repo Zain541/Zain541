@@ -41,7 +41,7 @@ I'm an active member of the coding community on Stack Overflow, where I've answe
 - 🥈 20 Silver Badges
 - 🥉 42 Bronze Badges
 
-Feel free to explore my [Stack Overflow profile](https://stackoverflow.com/users/5255147/zain-farooq) to see my answers and solutions
+Feel free to explore my [Stack Overflow profile](https://stackoverflow.com/users/5255147/zain-farooq) to see my answers and solutions.
 
 
 
