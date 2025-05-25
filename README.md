@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a professional full-stack developer with over 5 years of experience in web development. I have a passion for creating seamless websites and writing efficient code. I've had the privilege of working with various engaging businesses to deliver exceptional digital solutions.
+I'm a professional full-stack developer with over 6 years of experience in web development. I have a passion for creating seamless websites and writing efficient code. I've had the privilege of working with various engaging businesses to deliver exceptional digital solutions.
 
 ## Expertise
 
